@@ -1,5 +1,5 @@
 # sales-analytics-dashboard
-Data-driven Sales Analytics Dashboard built in Power BI using DAX and Power Query for interactive KPI analysis
+Interactive Sales Analytics Dashboard built in Power BI using DAX and Power Query to analyze $13.7M sales data with dynamic KPIs, regional insights, and product performance analysis.
 # Sales Analytics Dashboard (Power BI)
 
 ## Overview
